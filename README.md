@@ -1,5 +1,8 @@
 TACG
 ====
+From Confidence to Commitment: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding
+
+
 
 A lightweight research codebase for fast inference experiments on masked diffusion language models, with support for **LLaDA 8B Instruct** and **Dream-v0-Instruct-7B**.
 
