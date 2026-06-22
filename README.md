@@ -1,6 +1,6 @@
 TACG
 ====
-From Confidence to Commitment: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding
+# From Confidence to Commitment: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding
 
 
 
