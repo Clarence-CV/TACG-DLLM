@@ -196,22 +196,7 @@ Typical outputs include:
 - stepwise decoding traces when `--save_steps` is enabled
 - benchmark-specific sample files for code-generation tasks
 
-## Design notes
-
-- LLaDA and Dream use separate evaluation entry files.
-- Scripts are intended to expose a small set of stable overrides rather than requiring direct file edits.
-- Some result directories can become large; keep `SAVE_DIR` configurable.
-- This repository currently reflects an actively used research workspace, so paths and presets are optimized for direct experimentation.
-
-## Suggested cleanup before public release
-
-If this repository is prepared for broader release, the most useful next steps are:
-
-- unify shell script style across all model families
-- reduce machine-specific default paths
-- separate code from large local result directories
-- add exact dependency pinning
-- add a short reproducibility note for each benchmark preset
+ 
 
 ## License
 
