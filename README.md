@@ -201,6 +201,18 @@ Typical outputs include:
 
  
 
-## License
+## Citation
 
-See `LICENSE`.
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{wang2026tacgtrajectoryawarecommitgating,
+      title={TACG: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding}, 
+      author={Chengcheng Wang and Tingzhang Luo and Wenhao Li and Jianyuan Guo and Chang Xu},
+      year={2026},
+      eprint={2607.03236},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2607.03236}, 
+}
+```
